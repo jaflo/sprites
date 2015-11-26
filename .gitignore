@@ -1,0 +1,17 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+/public/apple-touch-icon-57x57.png
+/public/apple-touch-icon-60x60.png
+/public/apple-touch-icon-72x72.png
+/public/apple-touch-icon-76x76.png
+/public/apple-touch-icon-114x114.png
+/public/apple-touch-icon-120x120.png
+/public/apple-touch-icon-precomposed.png
+/public/apple-touch-icon.png
+/public/favicon-16x16.png
+/public/favicon-32x32.png
+/public/favicon-96x96.png
+/public/favicon.ico
